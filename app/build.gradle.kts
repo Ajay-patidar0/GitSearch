@@ -61,6 +61,13 @@ kapt {
 }
 
 dependencies {
+
+    // Coil core library
+    implementation("io.coil-kt:coil:2.4.0")
+// Coil Compose extension for Jetpack Compose image loading (if you use Compose)
+    implementation("io.coil-kt:coil-compose:2.4.0")
+// Optional: Coil SVG support if you want to load SVG images
+    implementation("io.coil-kt:coil-svg:2.4.0")
 implementation("androidx.compose.material:material-icons-extended")
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
