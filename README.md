@@ -84,4 +84,8 @@ This app follows the **MVVM (Model-View-ViewModel)** architecture pattern:
 - **Coroutines**: For handling asynchronous operations.
 - **Material3**: For UI components and design system.
 
+## License
+
+This project is licensed under the [MIT License](./License.md).
+
 
