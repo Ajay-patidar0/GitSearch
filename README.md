@@ -1,7 +1,5 @@
 # GitSearch - GitHub Repository Search App
 
-> 🚀 This project is part of [GirlScript Summer of Code 2025 (GSSoC'25)]
-
 GitSearch is an Android application that allows users to search and explore GitHub repositories by entering a GitHub username. The app fetches the public repositories of the user and displays them in an organized and user-friendly interface, including details such as repository name, description, programming language, and the number of stars.
 
 ## Features
